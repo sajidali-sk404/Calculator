@@ -16,7 +16,7 @@ This is a simple calculator application built with React and Vite. It supports b
 1. Clone the repository:
     ```sh
     git clone <https://github.com/sajidali-sk404/Calculator.git>
-    cd <repository-directory>
+    cd <Calculator>
     ```
 
 2. Install dependencies:
@@ -39,8 +39,7 @@ Open your browser and navigate to `http://localhost:3000` to use the calculator.
 - **Cal.jsx**: The calculator component that includes the display and keys.
 - **Display.jsx**: The display component that shows the current expression and result.
 - **Keys.jsx**: The keys component that renders the calculator buttons.
-- **DarkLight.jsx**: The dark mode toggle button.
-- **Mode.jsx**: The context provider for theme management.
+
 
 ## Styling
 
