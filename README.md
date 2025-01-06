@@ -31,7 +31,7 @@ This is a simple calculator application built with React and Vite. It supports b
 
 ## Usage
 
-Open your browser and navigate to `http://localhost:3000` to use the calculator.
+Open your browser and navigate to `http://localhost:5173` to use the calculator.
 
 ## Components
 
