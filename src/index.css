@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black;
+    color: white; */
+}
+
+
+* {
+
+    
+    @apply transition-all ease-in-out duration-200;
+}
+
